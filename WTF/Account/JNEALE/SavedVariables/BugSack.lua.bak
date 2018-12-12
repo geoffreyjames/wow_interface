@@ -1,0 +1,12 @@
+
+BugSackDB = {
+	["soundMedia"] = "None",
+	["fontSize"] = "GameFontHighlight",
+	["auto"] = false,
+	["mute"] = true,
+	["filterAddonMistakes"] = true,
+	["chatframe"] = false,
+}
+BugSackLDBIconDB = {
+	["hide"] = true,
+}

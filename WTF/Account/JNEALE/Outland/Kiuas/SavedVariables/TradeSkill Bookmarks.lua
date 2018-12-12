@@ -1,0 +1,5 @@
+
+TradeSkillBookmarksSaved = {
+	[2480] = {
+	},
+}
