@@ -1,5 +1,0 @@
-
-TradeSkillBookmarksSaved = {
-	[2480] = {
-	},
-}
