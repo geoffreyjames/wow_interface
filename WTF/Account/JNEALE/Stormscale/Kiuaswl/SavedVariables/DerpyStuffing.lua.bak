@@ -1,0 +1,12 @@
+
+DerpyStuffingDB = {
+	["Columns"] = {
+		["bags"] = 10,
+		["reagent"] = 12,
+		["bank"] = 10,
+	},
+	["SetReagentTab"] = true,
+	["ReagentFrameOpen"] = true,
+	["Position"] = {
+	},
+}

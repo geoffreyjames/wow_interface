@@ -1,0 +1,27 @@
+
+BrokerPlayedTimeDB = {
+	["Stormscale"] = {
+		["Horde"] = {
+			["Kiuaswl"] = {
+				["timePlayed"] = 363162,
+				["class"] = "WARLOCK",
+				["level"] = 120,
+				["timeUpdated"] = 1543872887,
+			},
+		},
+	},
+	["onlyCurrentRealm"] = false,
+	["factionIcons"] = false,
+	["Outland"] = {
+		["Horde"] = {
+			["Kiuas"] = {
+				["timePlayed"] = 12423281,
+				["class"] = "PRIEST",
+				["timeUpdated"] = 1542937708,
+				["level"] = 117,
+			},
+		},
+	},
+	["classIcons"] = false,
+	["levels"] = false,
+}
