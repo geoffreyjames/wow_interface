@@ -1,0 +1,75 @@
+VER 3 0100000000000011 "0`" "INV_Misc_QuestionMark"
+#showtooltip  [mod:shift] Prayer of Mending; [mod:ctrl] Prayer of Mending;Shadow Word: Death
+/cancelaura Dispersion
+/cast [mod:shift] Prayer of Mending; [mod:ctrl, @player] Prayer of Mending;Shadow Word: Death
+END
+VER 3 0100000000000004 "1" "INV_Misc_QuestionMark"
+#showtooltip Power Word: Shield
+/cast [mod:shift, @party1] Power Word: Shield; [mod:ctrl, @player] Power Word: Shield; Power Word: Shield
+END
+VER 3 0100000000000006 "2" "INV_Misc_QuestionMark"
+#showtooltip 10
+/targetenemy
+END
+VER 3 010000000000000F "3" "INV_Misc_QuestionMark"
+#showtooltip
+/cancelaura Dispersion
+/cast [mod:shift] Renew; [mod:ctrl, @player] Renew; Shadow Word: Pain
+END
+VER 3 010000000000000A "4" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] Mind Sear; [mod:ctrl,@player] Mind Soothe; Mind Flay
+END
+VER 3 0100000000000003 "5" "INV_Misc_QuestionMark"
+/run if not IsMounted() then local g,f,s,v={23},{37},{20},{1} local t=(IsUsableSpell(40192)) and f or (strsub(GetMapInfo(),0,7)=="Vashjir" and IsSwimming()) and v or (IsSwimming()) and s or g CallCompanion("MOUNT",t[random(#t)]) end
+/dismount
+END
+VER 3 0100000000000009 "c" "Spell_Shadow_ImpPhaseShift"
+#showtooltip
+/cast [mod:shift, @focus, exists] Silence; [mod:ctrl, @focus, exists] Silence; Silence
+END
+VER 3 0100000000000007 "disp" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] 6; [mod:ctrl] 6; Dispersion
+END
+VER 3 0100000000000012 "F" "INV_Misc_QuestionMark"
+#showtooltip Dispel Magic
+/stopcasting
+/cast [mod:shift, @player] Dispel Magic
+END
+VER 3 0100000000000008 "focus" "Ability_Ambush"
+/focus [@mouseover,exists][]
+END
+VER 3 0100000000000010 "G" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] Shadowform [mod:ctrl] Shadowform; Devouring Plague
+END
+VER 3 0100000000000001 "getoutofjail" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [mod:shift] Will of the Forsaken; [mod:ctrl] 10; 14
+END
+VER 3 0100000000000002 "laming pw:s" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift, @focustarget,exists] Power Word: Shield; [mod:alt, @player] Power Word: Shield; Power Word: Shield
+END
+VER 3 010000000000000B "psychic" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] Mana Burn; [mod:ctrl] Holy Nova; Psychic Scream
+END
+VER 3 010000000000000D "R" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] Flash Heal; [mod:ctrl, @player] Flash Heal; Vampiric Touch
+END
+VER 3 0100000000000005 "Shift Q" "INV_Misc_QuestionMark"
+#showtooltip
+/cast Shadowfiend
+/petattack
+END
+VER 3 010000000000000E "V" "INV_Misc_QuestionMark"
+#showtooltip  Psychic Horror
+/cast [mod:shift, @focus, exists] Psychic Horror; [mod:ctrl, @focus, exists] Psychic Horror; Psychic Horror
+END
+VER 3 010000000000000C "X" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [mod:shift] Vampiric Embrace; [mod:ctrl] Shadow Protection; Power Word: Fortitude
+END

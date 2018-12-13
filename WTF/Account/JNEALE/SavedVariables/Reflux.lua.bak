@@ -1,0 +1,16 @@
+
+RefluxDB = {
+	["activeProfile"] = "LeilaUI",
+	["emulated"] = {
+	},
+	["ignored"] = {
+	},
+	["profiles"] = {
+		["LeilaUI"] = {
+		},
+		["LeilaUI-m"] = {
+		},
+		["LeilaUI-d"] = {
+		},
+	},
+}

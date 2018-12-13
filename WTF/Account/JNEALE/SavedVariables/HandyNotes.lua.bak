@@ -1,0 +1,3121 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Kiuas - Outland"] = "LeilaUI",
+		["Risêagainst - Anetheron"] = "LeilaUI",
+		["Kiuaswl - Stormscale"] = "LeilaUI",
+	},
+	["profiles"] = {
+		["LeilaUI-m"] = {
+			["icon_alpha"] = 0.8,
+			["icon_alpha_minimap"] = 0.8,
+			["icon_scale"] = 0.8,
+			["icon_scale_minimap"] = 0.8,
+		},
+		["LeilaUI"] = {
+			["icon_scale"] = 0.8,
+			["icon_alpha_minimap"] = 0.8,
+			["icon_alpha"] = 0.8,
+			["icon_scale_minimap"] = 0.8,
+		},
+		["Default"] = {
+			["icon_scale"] = 0.8,
+			["icon_alpha_minimap"] = 0.8,
+			["icon_alpha"] = 0.8,
+			["icon_scale_minimap"] = 0.8,
+		},
+		["LeilaUI-d"] = {
+			["icon_alpha"] = 0.8,
+			["icon_alpha_minimap"] = 0.8,
+			["icon_scale"] = 0.8,
+			["icon_scale_minimap"] = 0.8,
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["global"] = {
+		{
+			[48944027] = {
+				["title"] = "Ravika (Händer)",
+				["icon"] = 10,
+				["desc"] = "Pet: [Gahz'rooki]",
+			},
+		}, -- [1]
+		[121] = {
+			[23796424] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[13116681] = {
+				["icon"] = 16,
+				["title"] = "Darmwürger",
+				["desc"] = "Haustier-Trainer\nWildtier, Kleintier, Wildtier",
+			},
+			[58013938] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[74912238] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+		},
+		[357] = {
+			[58885438] = {
+				["icon"] = 3,
+				["title"] = "Zurück zu Schrecken der Nacht",
+				["desc"] = "",
+			},
+			[54175021] = {
+				["title"] = "Weiter zu Der Kurator",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[361] = {
+			[27015823] = {
+				["icon"] = 3,
+				["title"] = "Weiter zum Schachevent",
+				["desc"] = "",
+			},
+			[45195230] = {
+				["icon"] = 3,
+				["title"] = "Zurück zu Arans Schemen",
+				["desc"] = "",
+			},
+			[39631749] = {
+				["icon"] = 3,
+				["title"] = "Weiter zum Schachevent",
+				["desc"] = "",
+			},
+			[43052535] = {
+				["title"] = "Händer",
+				["icon"] = 15,
+				["desc"] = "",
+			},
+			[24236096] = {
+				["icon"] = 3,
+				["title"] = "Nethergroll",
+				["desc"] = "hierlang",
+			},
+		},
+		[365] = {
+			[62307411] = {
+				["title"] = "Weiter zu Prinz Malchezaar",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[70967202] = {
+				["title"] = "Zurück zum Schachevent",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[249] = {
+			[56724163] = {
+				["title"] = "Obalis",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nWildtier, Kleintier, Flug",
+			},
+			[46363441] = {
+				["icon"] = 8,
+				["title"] = "Durchkämmer der Ewigen Sande",
+				["desc"] = "64.6 30.4\nNPC-Scan: 50409",
+			},
+		},
+		[127] = {
+			[17055670] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[66885062] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[50005912] = {
+				["title"] = "Fast kopfloser Jakob",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nUntot, Untot, Untot",
+			},
+			[43574420] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+		},
+		[790] = {
+			[79338930] = {
+				["cont"] = false,
+				["title"] = "79.41 89.37",
+				["icon"] = 2,
+				["desc"] = "\"Cave\" Entrance (swim straight down into the boat)",
+			},
+		},
+		[290] = {
+			[39277216] = {
+				["icon"] = 8,
+				["title"] = "Chromaggus",
+				["desc"] = "Pet: Chrominius",
+			},
+		},
+		[433] = {
+			[64107467] = {
+				["title"] = "Schwarzmarkt",
+				["cont"] = 1,
+				["icon"] = 9,
+				["desc"] = "Auktionshaus",
+			},
+			[74587371] = {
+				["title"] = "Der Hammer der Torheit",
+				["icon"] = 4,
+				["desc"] = "100g 354k ep",
+			},
+		},
+		[624] = {
+			[42525430] = {
+				["cont"] = false,
+				["title"] = "Lieutenant Brokefist / Leutnant Schmetterfaust ",
+				["icon"] = 25,
+				["desc"] = "PvP Gear Honor/Ehre",
+			},
+			[60795158] = {
+				["title"] = "Portal Orgrimmar",
+				["cont"] = false,
+				["icon"] = 28,
+				["desc"] = "",
+			},
+			[50362445] = {
+				["title"] = "Portal Donnerfels",
+				["cont"] = false,
+				["icon"] = 28,
+				["desc"] = "",
+			},
+			[63202430] = {
+				["title"] = "Portal Unterstadt",
+				["cont"] = false,
+				["icon"] = 28,
+				["desc"] = "",
+			},
+			[64566204] = {
+				["cont"] = false,
+				["title"] = "Fate-Twister Tiklal = Schicksalsflechter Tiklal",
+				["icon"] = 9,
+				["desc"] = "Max 3x Siegel des geschmiedeten Schicksals\nApexis Crystals: 1000 / 2000 / 4000\nGarrison Resources: 300 / 600 / 1200\nGold: 500 / 1000 / 2000\nHonor: 500 / 1000 / 2000",
+			},
+		},
+		[166] = {
+			[38952870] = {
+				["title"] = "Gluth",
+				["icon"] = 8,
+				["desc"] = "Pet: Flickenwelpe",
+			},
+			[76271202] = {
+				["title"] = "Maexxna",
+				["icon"] = 8,
+				["desc"] = "Pet: Riesige Knochenspinne",
+			},
+			[81195757] = {
+				["icon"] = 8,
+				["title"] = "Loatheb",
+				["desc"] = "Pet: Fungusmonstrosität",
+			},
+		},
+		[350] = {
+			[52886360] = {
+				["title"] = "Weiter zu Moroes",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[45308245] = {
+				["title"] = "Attumen",
+				["icon"] = 8,
+				["desc"] = "Boss\nMount: Feuriges Schlachtross",
+			},
+		},
+		[354] = {
+			[62942198] = {
+				["icon"] = 3,
+				["title"] = "Richtung Schrecken der Nacht",
+				["desc"] = "",
+			},
+			[43598341] = {
+				["title"] = "Zurück zu Der große böse Wolf",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[358] = {
+			[60151757] = {
+				["title"] = "Zurück zu Schrecken der Nacht",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[49363674] = {
+				["title"] = "Der Kurator",
+				["icon"] = 8,
+				["desc"] = "Boss\nPet: Menageriewächter",
+			},
+			[30126417] = {
+				["title"] = "Arans Schemen & Terestian Siechhuf",
+				["icon"] = 3,
+				["desc"] = "hierlang",
+			},
+		},
+		[362] = {
+			[36104171] = {
+				["icon"] = 8,
+				["title"] = "Nethergroll",
+				["desc"] = "Boss",
+			},
+			[53967924] = {
+				["title"] = "Zurück zu Arans Schemen",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[366] = {
+			[51513128] = {
+				["icon"] = 8,
+				["title"] = "Prinz Malchezaar",
+				["desc"] = "Boss\nPet: Netherraumabyssal",
+			},
+			[52039063] = {
+				["title"] = "Zurück zu ",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[609] = {
+			[67234622] = {
+				["title"] = " [Autokanone der Eisernen Horde]",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[641] = {
+			[41428092] = {
+				["title"] = "There is a Cave in the Cave 41.5/81.3",
+				["cont"] = false,
+				["icon"] = 2,
+				["desc"] = "Step 6: mob beats very hard",
+			},
+			[65923920] = {
+				["cont"] = false,
+				["title"] = "Pet The Maw",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+		[390] = {
+			[79783344] = {
+				["icon"] = 6,
+				["title"] = "Daily",
+				["desc"] = "Archeologie",
+			},
+			[43904389] = {
+				["title"] = "Dailys",
+				["icon"] = 6,
+				["desc"] = "Lotus",
+			},
+			[46646014] = {
+				["title"] = "Knackzahn",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[29109039] = {
+				["title"] = "Major Affentanz",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nPfeife des hilfreichen Nupsi",
+			},
+			[46966415] = {
+				["title"] = "Geist von Lao-Fe <Der Sklavenbinder>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[67201404] = {
+				["title"] = "Bebender Pandarengeist",
+				["icon"] = 16,
+				["desc"] = "",
+			},
+			[25902452] = {
+				["icon"] = 4,
+				["title"] = "Schlüssel in den Hallen eintauschen",
+				["desc"] = "gegen Lotus Ruf",
+			},
+			[41646949] = {
+				["title"] = "Ai-Ran die flüchtige Wolke",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nin der Höhle",
+			},
+			[78793486] = {
+				["icon"] = 28,
+				["title"] = "Mogu’shanpalast",
+				["desc"] = "Instanzeingang (87-89 / 90 Heroisch)",
+			},
+			[31517443] = {
+				["icon"] = 16,
+				["title"] = "Aki die Auserwählte",
+				["desc"] = "Haustier-Trainer\nKleintier, Drachkin, Aquatik",
+			},
+			[36265067] = {
+				["title"] = "Zangenkiefer",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[68683096] = {
+				["title"] = "Sahn Gezeitenjäger",
+				["icon"] = 8,
+				["desc"] = "RarMob\nDropt +50% swim speed",
+			},
+			[21831651] = {
+				["title"] = "Gaohun der Seelenschnitter <Imperion der Shao-Tien>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob\nIn den Guo-Lai-Hallen",
+			},
+			[15887302] = {
+				["icon"] = 28,
+				["title"] = "Das Tor der Untergehenden Sonne",
+				["desc"] = "Instanzeingang",
+			},
+			[33976192] = {
+				["title"] = "Moldo Einauge",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nam Ufer den Fluss rauf richtung See",
+			},
+			[43205147] = {
+				["title"] = "Moldo Einauge",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[8033367] = {
+				["title"] = "Vyraxxis <Schwarmfürst der Krik'thik>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[73374227] = {
+				["title"] = "Lotus Händer",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[24391394] = {
+				["title"] = "Huo-Shuang <Imperion der Shao-Tien>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob\nIn den Guo-Lai-Hallen",
+			},
+			[30497874] = {
+				["title"] = "Schattenmeister Sydow <Der Seelensammler>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[34988997] = {
+				["title"] = "Aetha",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[87624337] = {
+				["title"] = "Yorik Scharfauge",
+				["icon"] = 8,
+				["desc"] = "RarMob",
+			},
+			[61142430] = {
+				["title"] = "Horde Daily+Weekly",
+				["icon"] = 6,
+				["desc"] = "Ab Lotus respektvoll:\nDaily für Himmlisch Erhabene\n\nDanky: Händer für Geister der Harmonie",
+			},
+			[39072529] = {
+				["icon"] = 8,
+				["title"] = "Urgolax",
+				["desc"] = "RarMob\nSpecial Drop: Kelch der Geheimnisse (Funitem)",
+			},
+			[27714169] = {
+				["title"] = "Baolai der Verbrenner <Imperion der Shao-Tien>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[19637013] = {
+				["cont"] = false,
+				["title"] = "Dailys",
+				["icon"] = 6,
+				["desc"] = "Lotus",
+			},
+			[14125852] = {
+				["icon"] = 8,
+				["title"] = "Kal'tik der Veröder",
+				["desc"] = "RarMob",
+			},
+			[27395661] = {
+				["title"] = "General Temuja <Der Seelenversklaver>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[6645885] = {
+				["title"] = "Kri'chon <Der Leichenhäscher>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[14813344] = {
+				["title"] = "Kang der Seelendieb",
+				["icon"] = 8,
+				["desc"] = "RarMob\nSpecial Drop: Kangs Bindungsstein (Funitem)",
+			},
+			[17024795] = {
+				["title"] = "Bai-Jin der Schlächter <Imperion der Shao-Tien>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[26751330] = {
+				["title"] = "Gochao die Eisenfaust <Imperion der Shao-Tien>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[25681603] = {
+				["title"] = "Blutspitz <Glutnetzmatriarchin>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob\nIn den Guo-Lai-Hallen\n(Ritualkammer Spinne im Wasser)",
+			},
+			[45257666] = {
+				["title"] = "Wulon",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[65893976] = {
+				["title"] = "Quid <Spirit of the Misty Falls>",
+				["icon"] = 2,
+				["desc"] = "Koch Rar Mob",
+			},
+			[83925959] = {
+				["title"] = "Allianz Daily+Weekly",
+				["icon"] = 6,
+				["desc"] = "Ab Lotus respektvoll:\nDaily für Himmlisch Erhabene\n\nKrystel: Händer für Geister der Harmonie",
+			},
+		},
+		[198] = {
+			[61323281] = {
+				["title"] = "Brok",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nWildtier, Magie, Kleintier",
+			},
+		},
+		[554] = {
+			[33655372] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 18",
+				["desc"] = "",
+			},
+			[44282734] = {
+				["title"] = "Urdur der Kauterisierer",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[66204378] = {
+				["title"] = "Blattheiler",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nDropt Pet zu 3%: Eschenblattgeistling\nID: 73277",
+			},
+			[34627192] = {
+				["icon"] = 8,
+				["title"] = "Gu'chi der Schwarmbringer",
+				["desc"] = "Rar Mob\nLäuft um das Dorf Alt-Pi'jiu herrum\nDropt zu 2% Pet: [Schwarmling von Gu'chi]",
+			},
+			[54014249] = {
+				["title"] = "Tsavo'ka <Geist in der Dunkelheit>",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nIn der Höhle\nDropt Riesiger Tigerschenkel",
+			},
+			[34592639] = {
+				["title"] = "2 Hinweis (Schatz)",
+				["icon"] = 6,
+				["desc"] = "[Rolos Rätsel]\nQuest am erdhaufen abgeben",
+			},
+			[44287056] = {
+				["icon"] = 8,
+				["title"] = "Kranichknirscher",
+				["desc"] = "Dropt: [Makelloser Pirscherbalg]\nID: 104268\n\nWenn Blut auf dem Boden ist Vollgefressener Kranich vom Strand nach hiner ziehen",
+			},
+			[68246046] = {
+				["title"] = "Helm der Familie Wolkenschlag 15",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[66535837] = {
+				["title"] = "Champion der Schwarzen Flamme 1",
+				["icon"] = 8,
+				["desc"] = "Laufen hier den weg entlang bis hoch zu Glutfall\nDropt:  [Schwarzflammendolche] (Funitem)\nund [Großer Sack voll Kräuter]\nID: 73171",
+			},
+			[52303319] = {
+				["title"] = "Archiereus der Flamme 2",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[55197281] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 14",
+				["desc"] = "",
+			},
+			[34666141] = {
+				["icon"] = 16,
+				["title"] = "Klein Tommy Grünschnabel",
+				["desc"] = "Klein Oondasta (Wildtier)",
+			},
+			[58834811] = {
+				["title"] = "Spelurk",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nIn der Höhle\nÖffnen mit Helm der Familie Wolkenschlag",
+			},
+			[65465276] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 16",
+				["desc"] = "",
+			},
+			[49113819] = {
+				["title"] = "Funkenlord Gairan",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nKann außerhalb des Heiligtums von Ordos spawnen\nDropt Anstürm Trinket",
+			},
+			[26003656] = {
+				["icon"] = 8,
+				["title"] = "Chelon",
+				["desc"] = "Rar Mob\nDropt [Gehärteter Panzer]\nID: 72045",
+			},
+			[21614538] = {
+				["title"] = "Großschildkröte Zornpanzer",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nKann am strand zwischen Horde und Allianz Lager spawnen\nNPCScan ID: 73161\n",
+			},
+			[37557810] = {
+				["icon"] = 8,
+				["title"] = "Zhu-Gon der Saure",
+				["desc"] = "Rar Mob\nDrop Pet: [Ranziger Bierlementar]\nID: 71919",
+			},
+			[41516366] = {
+				["title"] = "Kochmeister",
+				["icon"] = 21,
+				["desc"] = "Für [Fleischige Kranichkeule]\n",
+			},
+			[45023992] = {
+				["title"] = "Steinmoos",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nAm ende der Höhle\nDropt [Goldenes Moos]",
+			},
+			[63104554] = {
+				["title"] = "Helm der Familie Wolkenschlag 6",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[22263014] = {
+				["icon"] = 4,
+				["title"] = "Monströse Dornzange 5",
+				["desc"] = "Rar Mob",
+			},
+			[70747868] = {
+				["title"] = "Beutel (Weekly)",
+				["icon"] = 1,
+				["desc"] = "41 Coins 11 Amulette",
+			},
+			[55623014] = {
+				["icon"] = 7,
+				["title"] = "Hohepriester von Ordos",
+				["desc"] = "Dropt: [Aschebedecktes Horn] (Trinket Mount)",
+			},
+			[33325516] = {
+				["title"] = "3 Hinweis (Schatz)",
+				["icon"] = 6,
+				["desc"] = "[Rolos Rätsel]\nBöenalbatros angreifen dann beim roten See abspringen",
+			},
+			[23116767] = {
+				["title"] = "Großschildkröte Zornpanzer 2",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[64212671] = {
+				["title"] = "Gania",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nDropt Pet zu 4%: [Rubinrotes Tröpfchen]\nID: 73282",
+			},
+			[65602351] = {
+				["title"] = "4 Hinweis",
+				["icon"] = 6,
+				["desc"] = "Hier oben abgeben",
+			},
+			[34553303] = {
+				["title"] = "Archiereus der Flamme 1",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nDropt zu 5% Elixier des uralten Wissens =\n300% XP Buff 1h - Acc Gebunden",
+			},
+			[50167313] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 13",
+				["desc"] = "",
+			},
+			[64497249] = {
+				["title"] = "Helm der Familie Wolkenschlag 5",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[66957810] = {
+				["icon"] = 4,
+				["title"] = "Monströse Dornzange 1",
+				["desc"] = "Rar Mob\nDropt Pet zu 2%: [Dornzangenkrabbe]\nID: 73166",
+			},
+			[40978949] = {
+				["icon"] = 4,
+				["title"] = "Monströse Dornzange 2",
+				["desc"] = "Rar Mob",
+			},
+			[55195035] = {
+				["title"] = "Helm der Familie Wolkenschlag 8",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[49746960] = {
+				["title"] = "Funkelnde Schatztruhe (Weekly)",
+				["icon"] = 1,
+				["desc"] = "82 Coins 14 Amulette\nAuf der Säule",
+			},
+			[69995847] = {
+				["title"] = "Huolon",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nFliegt im Kreis von hier bis Glutfall\nDropt zu 1% [Zügel der donnernden Onyxwolkenschlange]",
+			},
+			[65354923] = {
+				["icon"] = 6,
+				["title"] = "Daily",
+				["desc"] = "Frage beantworten = 100 Coins",
+			},
+			[21292276] = {
+				["title"] = "Tiefenschlund",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nUmkreis die Insel im Uhrzeigersinn",
+			},
+			[55735933] = {
+				["title"] = "Helm der Familie Wolkenschlag 7",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[45618622] = {
+				["icon"] = 8,
+				["title"] = "Zesqua",
+				["desc"] = "Rar Mob\nDropt zu 1% Regenstein (Funitem)\nID: 72245",
+			},
+			[18835805] = {
+				["icon"] = 4,
+				["title"] = "Monströse Dornzange 4",
+				["desc"] = "Rar Mob",
+			},
+			[38939157] = {
+				["icon"] = 3,
+				["title"] = "Verfluchter Matrose der Ho-zen",
+				["desc"] = "Rar Mob\nDropt zu 9%: [Mit Seepocken überzogener Schlüssel]\nden man für [Verfluchter Matrosenhelm] braucht\nID: 71920",
+			},
+			[63327313] = {
+				["title"] = "Bufo",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nDropt Pet zu 4%: [Schluckfroschling]\nID: 72775",
+			},
+			[37234185] = {
+				["title"] = "Helm der Familie Wolkenschlag 10",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[57166120] = {
+				["title"] = "Nebelbedeckte Schatztruhe (Weekly)",
+				["icon"] = 1,
+				["desc"] = "Glitzernde Kranichstatue anklicken dann beim Fliegen suchen",
+			},
+			[57227778] = {
+				["title"] = "Behüter Osu",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[32066192] = {
+				["title"] = "Helm der Familie Wolkenschlag 2",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[49316848] = {
+				["title"] = "1 Hinweis (Schatz)",
+				["icon"] = 6,
+				["desc"] = "[Rolos Rätsel]\nQuest bei dem Stein abgeben",
+			},
+			[47172838] = {
+				["icon"] = 9,
+				["title"] = "Schwelende Truhe",
+				["desc"] = "100% Chance für Last der Ewigkeit",
+			},
+			[61716206] = {
+				["icon"] = 8,
+				["title"] = "Golganarr",
+				["desc"] = "Dropt: Erze und [Seltsamer glatt geschliffener Stein] (Funitem)",
+			},
+			[45577265] = {
+				["icon"] = 3,
+				["title"] = "Schauriger Geist [Daily]",
+				["desc"] = "Rar Mob:\nEwiges Geistergehölz (lila Kristall) anklicken dann 50 Nette/Wütende Geister Töten um ihn zu beschwören\nDropt Pet: Löwenzahnwitzbold",
+			},
+			[33338380] = {
+				["title"] = "Karkanos <Der Wasserschlund>",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nID: 72193",
+			},
+			[42365516] = {
+				["icon"] = 6,
+				["title"] = "Daily",
+				["desc"] = "20 Elite Killen",
+			},
+			[70868131] = {
+				["title"] = "Stinkezopf <Südseekapitän>",
+				["icon"] = 3,
+				["desc"] = "Rar Mob\nID: 73704",
+			},
+			[34665981] = {
+				["icon"] = 16,
+				["title"] = "Das Turnier der Erhabenen",
+				["desc"] = "",
+			},
+			[36914714] = {
+				["title"] = "Briefkasten",
+				["icon"] = 14,
+				["desc"] = "",
+			},
+			[23655821] = {
+				["title"] = "Spektraler Pirat",
+				["icon"] = 3,
+				["desc"] = "Rar Mob\nID: 71987",
+			},
+			[31396736] = {
+				["icon"] = 8,
+				["title"] = "Eisenfellstahlhorn",
+				["desc"] = "Rar Mob\nKann überall links auf der Karte spawnen\nID: 73160",
+			},
+			[48775115] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 17",
+				["desc"] = "",
+			},
+			[75404458] = {
+				["title"] = "Sprecher Gulan",
+				["icon"] = 11,
+				["desc"] = "Händer für [Blutige Münze]\nFür 1k Coins: [Rauchbrenner der ewigen Pein]",
+			},
+			[53844740] = {
+				["icon"] = 1,
+				["title"] = "Verschnürte Schatztruhe (Weekly)",
+				["desc"] = "Auf einem Pfeiler\nErste die Funkelnde Schatztruhe looten!",
+			},
+			[58614073] = {
+				["icon"] = 10,
+				["title"] = "Meister Kukuru <Sammler>",
+				["desc"] = "Händer\nVerkauft [Schlüssel für Kukurus Schatzkammer]\nfür 500 Coins",
+			},
+			[22893865] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 11",
+				["desc"] = "",
+			},
+			[52848195] = {
+				["title"] = "Jakur von Ordos",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[51386232] = {
+				["title"] = "Helm der Familie Wolkenschlag 9",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[24827265] = {
+				["icon"] = 4,
+				["title"] = "Monströse Dornzange 3",
+				["desc"] = "Rar Mob",
+			},
+			[57975853] = {
+				["title"] = "Champion der Schwarzen Flamme 2",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[54442132] = {
+				["icon"] = 7,
+				["title"] = "Ordos",
+				["desc"] = "Wordboss",
+			},
+			[18095661] = {
+				["title"] = "Hölen Eingang",
+				["icon"] = 9,
+				["desc"] = "Unterwasser",
+			},
+			[44933672] = {
+				["icon"] = 28,
+				["title"] = "Zarhym",
+				["desc"] = "In der Höhle",
+			},
+			[22365869] = {
+				["title"] = "Schwarzwaches Strandgut",
+				["icon"] = 9,
+				["desc"] = "In der Höle\n215 Coins 9 Amulette + Epic",
+			},
+			[33063271] = {
+				["title"] = "Helm der Familie Wolkenschlag 1",
+				["icon"] = 20,
+				["desc"] = "10 Min Buff\nFür Erfolg [Legende vergangener Zeiten]\nHöle von Rar Mob Speluk lässt sich damit öffnen",
+			},
+			[54555404] = {
+				["title"] = "Glutfall",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[59798796] = {
+				["title"] = "Klapperknochen",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nDropt Trinket [Kapitän Zvezdans verlorenes Bein]\nID: 72048",
+			},
+			[47388099] = {
+				["title"] = "Helm der Familie Wolkenschlag 4",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[26112806] = {
+				["title"] = "Schreckensschiff Vazuvius",
+				["icon"] = 8,
+				["desc"] = "Tiefenschlund drop [Nebelgefüllte Geistlaterne] zum beschwören.\nDropt: [Reif des zeitverlorenen Seefahrers] (Funitem)\nID: 73281",
+			},
+			[43593857] = {
+				["title"] = "Jadefeuergeist",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nIn der Höhle",
+			},
+			[42796014] = {
+				["icon"] = 10,
+				["title"] = "Whizzig <Händler der Zeit>",
+				["desc"] = "Rar Händer\nKann überall im Hof Spawnen",
+			},
+			[39267778] = {
+				["title"] = "Helm der Familie Wolkenschlag 3",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[25577185] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 12",
+				["desc"] = "",
+			},
+			[42895645] = {
+				["icon"] = 20,
+				["title"] = "Helm der Familie Wolkenschlag 19",
+				["desc"] = "",
+			},
+			[30004786] = {
+				["title"] = "Kaiserpython",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nKann überall links auf der Karte spawnen\nDropt Pet [Todesnatter]",
+			},
+		},
+		[410] = {
+			[35215821] = {
+				["icon"] = 8,
+				["title"] = "Kriegsherr Zon'ozz",
+				["desc"] = "",
+			},
+			[70505949] = {
+				["icon"] = 8,
+				["title"] = "Yor'sahj",
+				["desc"] = "",
+			},
+		},
+		[287] = {
+			[41626086] = {
+				["icon"] = 8,
+				["title"] = "Boss",
+				["desc"] = "",
+			},
+		},
+		[418] = {
+			[12075660] = {
+				["title"] = "Dailys (Horde)",
+				["icon"] = 6,
+				["desc"] = "Herrschaftsoffensive",
+			},
+			[10505714] = {
+				["title"] = "Muerta",
+				["icon"] = 25,
+				["desc"] = "250 Ehre\nEpic Insignie 1 min CD\nNPC-Scan: 68322",
+			},
+			[39022848] = {
+				["title"] = "Go-Kan",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[67454428] = {
+				["icon"] = 6,
+				["title"] = "Dailys",
+				["desc"] = "Angelquests",
+			},
+			[15403638] = {
+				["icon"] = 8,
+				["title"] = "Torik-Ethis",
+				["desc"] = "Rar Mob\nEpic Platte Tank Hose 440",
+			},
+			[50698883] = {
+				["title"] = "Spriggin",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[62014675] = {
+				["title"] = "Mo'ruk",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nWildtier, Flug (Motte), Aquatisch",
+			},
+			[11306632] = {
+				["title"] = "Ubunti der Schatten",
+				["icon"] = 25,
+				["desc"] = "250 Ehre\nEpic PvP Macht Trinket\nNPC-Scan: 68320",
+			},
+			[32966448] = {
+				["icon"] = 6,
+				["title"] = "Dailys",
+				["desc"] = "Ab Lotus respektvoll: \nDie Himmlisch Erhabenen",
+			},
+			[87412895] = {
+				["icon"] = 24,
+				["title"] = "Disha Furchtwächter",
+				["desc"] = "250 Ehre\nNPC-Scan: 68319",
+			},
+			[52077247] = {
+				["icon"] = 4,
+				["title"] = "Papierstapel",
+				["desc"] = "Graues Item 15g\nLiegt neben der Luke\nKein Schatz!",
+			},
+			[50634883] = {
+				["icon"] = 4,
+				["title"] = "Pandarischer Fischspeer",
+				["desc"] = "Stangenwaffe Beweglichkeit 419 lvl 86\nSteckt im Boden hinter Onkel Deming",
+			},
+			[41859219] = {
+				["icon"] = 4,
+				["title"] = "Ausrüstungsspind",
+				["desc"] = "Zufällige BoP Stiefel 419 lvl 86\nganz Unten im Schiff\nZählt als Reichtum!",
+			},
+			[56574800] = {
+				["title"] = "Arness die Schuppe",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[15135666] = {
+				["title"] = "Kar Kriegstreiber",
+				["icon"] = 25,
+				["desc"] = "250 Ehre\nEpic Abhärtungs Trinket \nNPC-Scan: 68322\n",
+			},
+			[28753762] = {
+				["title"] = "Cournith Wasserläufer",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nin dem Tempel",
+			},
+			[39555434] = {
+				["title"] = "Ruun Geisterpranke",
+				["icon"] = 8,
+				["desc"] = "Rar Mob Panda\nIn dem Gebäude obere Etage",
+			},
+			[71020859] = {
+				["icon"] = 4,
+				["title"] = "Steintafel der Saurok",
+				["desc"] = "100g Graues Item\nIn der Höhle",
+			},
+			[52348787] = {
+				["icon"] = 8,
+				["title"] = "Spriggin",
+				["desc"] = "Rar Mob\nEpic Wille Leder Hose 440",
+			},
+			[13943527] = {
+				["title"] = "Torik-Ethis",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[85922431] = {
+				["icon"] = 6,
+				["title"] = "Dialys (Allianz)",
+				["desc"] = "Operation Schildwall",
+			},
+			[53773550] = {
+				["icon"] = 8,
+				["title"] = "Gaarn der Giftige",
+				["desc"] = "Rar Mob\nEpic Stoff Wille Hose 440",
+			},
+			[41589133] = {
+				["icon"] = 4,
+				["title"] = "Ausrüstungsspind",
+				["desc"] = "= Zufällige BoP Stiefel 419 lvl 86\nganz Unten im Schiff",
+			},
+			[56334652] = {
+				["icon"] = 8,
+				["title"] = "Arness die Schuppe",
+				["desc"] = "Rar Mob\nEpic Ketten Heal Hose 440",
+			},
+			[54523240] = {
+				["title"] = "Gaarn der Giftige",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[49964881] = {
+				["icon"] = 4,
+				["title"] = "Pandarischer Fischspeer",
+				["desc"] = "= Stangenwaffe Beweglichkeit 419 lvl 86\nSteckt im Boden hinter Onkel Deming",
+			},
+			[83853087] = {
+				["icon"] = 24,
+				["title"] = "Mavis Harms",
+				["desc"] = "250 Ehre\nEpic Pvp-Macht Trinket\nNPC-Scan: 68317",
+			},
+			[40475514] = {
+				["icon"] = 8,
+				["title"] = "Ruun Geisterpranke",
+				["desc"] = "Rar Mob\nPanda in der 2. Etage\nEpic Aggi Leder Hose 440",
+			},
+			[51568996] = {
+				["icon"] = 4,
+				["title"] = "Koch Rezept: Bananenrum",
+				["desc"] = "Oben auf dem Schiff in einem Fass",
+			},
+			[68464389] = {
+				["title"] = "Dailys",
+				["icon"] = 6,
+				["desc"] = "Angelquests",
+			},
+			[66892142] = {
+				["title"] = "Qu'nas",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[38986616] = {
+				["cont"] = 1,
+				["title"] = "Zandalari Warbringer & Warscout",
+				["icon"] = 8,
+				["desc"] = "5.2 Rar Mob - Dropt Mount\nJade, Slate, Amber, or Golden Primordial Direhorn\nNPC-Scan id: 69769 & 69768",
+			},
+			[53463861] = {
+				["title"] = "Gaarn",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[66972312] = {
+				["icon"] = 8,
+				["title"] = "Qu'nas",
+				["desc"] = "Epic Stärke Platte Hose",
+			},
+			[39032911] = {
+				["icon"] = 8,
+				["title"] = "Go-Kan",
+				["desc"] = "Rar Mob\nEpic Ketten Aggi Hose 440",
+			},
+			[30463829] = {
+				["icon"] = 8,
+				["title"] = "Cournith Wasserläufer",
+				["desc"] = "Rar Mob\nEpic Stoff Hose 440",
+			},
+			[53088851] = {
+				["icon"] = 4,
+				["title"] = "Koch Rezept: Bananenrum",
+				["desc"] = "Oben auf dem Schiff in einem Fass\nZählt als Schatz!",
+			},
+			[30746580] = {
+				["icon"] = 6,
+				["title"] = "Dailys",
+				["desc"] = "Ab Lotus respektvoll:\nDie Himmlisch Erhabenen",
+			},
+			[84962696] = {
+				["icon"] = 24,
+				["title"] = "Dalan Nachtbrecher",
+				["desc"] = "250 Ehre\nEpic PvP Abhärtung Trinket\nNPC-Scan: 68318",
+			},
+		},
+		[422] = {
+			[27461704] = {
+				["icon"] = 3,
+				["title"] = "Elite Muschel Quest [16mile hp]",
+				["desc"] = "= Quest für [Gokk'lokmuschel]\nUnterwasser 27.4, 16.2",
+			},
+			[73342168] = {
+				["icon"] = 8,
+				["title"] = "Krol die Klinge",
+				["desc"] = "RarMob\nDropt 300% EP Flask",
+			},
+			[36933187] = {
+				["icon"] = 8,
+				["title"] = "Gar'lok",
+				["desc"] = "RarMob Spawn 1\nVersteckt in der Hütte",
+			},
+			[28184313] = {
+				["icon"] = 4,
+				["title"] = "Klinge des vergifteten Geistes",
+				["desc"] = "= 1h Schwert Intelligenz 450 lvl 86\nIn den Büschen neben dem Höhleneingang",
+			},
+			[71593710] = {
+				["icon"] = 8,
+				["title"] = "Karr der Verdunkler",
+				["desc"] = "RarMob\nDropt Pet",
+			},
+			[47903034] = {
+				["title"] = "Maliks tapferer Speer",
+				["icon"] = 4,
+				["desc"] = "= Agi Stangenwaffe 450 lvl 86\nSteckt zwischen Stein und Schwarzem Baum",
+			},
+			[55056401] = {
+				["icon"] = 8,
+				["title"] = "Ik-Ik der Flinke",
+				["desc"] = "RarMob\nIn einer Höhle",
+			},
+			[41446344] = {
+				["icon"] = 4,
+				["title"] = "Talisman des Manipulators",
+				["desc"] = "= Schmuck: zusatz Begleiter DMG 450 lvl 86\nSchimmernde Rapanaschnecke ansprechen\nNPC-Scan: 65552\n",
+			},
+			[24392743] = {
+				["icon"] = 8,
+				["title"] = "Dak der Brecher",
+				["desc"] = "RarMob",
+			},
+			[35372194] = {
+				["icon"] = 8,
+				["title"] = "Ai-Li Himmelsspiegel",
+				["desc"] = "RarMob",
+			},
+			[71563682] = {
+				["title"] = "Schnellstoßdolch des Windschnitters",
+				["icon"] = 4,
+				["desc"] = "= Agi Dolch 450 lvl 86\nIm Lila Busch versteckt 71.8, 36.1",
+			},
+			[54943741] = {
+				["icon"] = 16,
+				["title"] = "Ödniswandler Shu",
+				["desc"] = "Haustier-Trainer\nAquatisch, Elementar, Wildtier",
+			},
+			[36766270] = {
+				["icon"] = 8,
+				["title"] = "Omnis Feixmaul",
+				["desc"] = "RarMob - Läuft hier im Kreis\nDrop Goldenes Vlies (extra Gold Trinket)",
+			},
+			[39024128] = {
+				["icon"] = 1,
+				["title"] = "Gar'lok",
+				["desc"] = "RarMob Spawn 2",
+			},
+			[53653240] = {
+				["icon"] = 6,
+				["title"] = "Dailys",
+				["desc"] = "Klaxxi Dailys\nund Punkte Händer",
+			},
+			[55847799] = {
+				["icon"] = 4,
+				["title"] = "Schwärmendes Spaltbeil von Ka'roz",
+				["desc"] = "= 2h Schwert 450 lvl 86\n56.8, 77.6 Zwischen 2 Steinen in den Korallen\n",
+			},
+			[64105904] = {
+				["icon"] = 8,
+				["title"] = "Nalash Verdantis",
+				["desc"] = "RarMob\nDropt Pet",
+			},
+			[29899189] = {
+				["icon"] = 4,
+				["title"] = "Mutationsstab des Sezierers",
+				["desc"] = "= Intelligenz Stab 450 lvl 86\nAuf der unten Platform der Steinsäule 30.2 90.8",
+			},
+			[65826387] = {
+				["icon"] = 4,
+				["title"] = "Klinge des Ersten",
+				["desc"] = "In der Höhle - Steckt in einer Wurzel hinter dem Elite Mob",
+			},
+			[61228740] = {
+				["cont"] = 1,
+				["title"] = "Fließender Pandarengeist",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nAquatisch, Kleintier, Elementar",
+			},
+			[25755489] = {
+				["icon"] = 4,
+				["title"] = "Blutgetränktes Chitinfragment",
+				["desc"] = "=Schmuck Mastery+Agi 450 lvl 86\nUnterwasser in der Höhle",
+			},
+			[31882944] = {
+				["icon"] = 4,
+				["title"] = "Luzides Amulett des gewandten Geistes",
+				["desc"] = "= Hals Intelligenz 450 lvl 86\nLiegt auf Stein neben Schwazem Baum 32,30",
+			},
+			[38923462] = {
+				["icon"] = 28,
+				["title"] = "Herz der Angst",
+				["desc"] = "Eingang 10er/25er Raid",
+			},
+			[47125985] = {
+				["cont"] = 1,
+				["title"] = "Zandalari Warbringer & Warscout",
+				["icon"] = 8,
+				["desc"] = "5.2 Rar Mob - Dropt Mount\nJade, Slate, Amber, or Golden Primordial Direhorn\nNPC-Scan id: 69769 & 69768",
+			},
+			[53525639] = {
+				["icon"] = 4,
+				["title"] = "Medaillon des Schwarmwächters",
+				["desc"] = "= Schmuck: +Crit +Tempo ilvl: 450 lvl: 86\nAuf dem Boden in der nähe des Steins\nBei 54.3, 56.5",
+			},
+			[76022049] = {
+				["icon"] = 28,
+				["title"] = "Das Tor der Untergehenden Sonne",
+				["desc"] = "Instanzeingang",
+			},
+		},
+		[319] = {
+			[34354458] = {
+				["icon"] = 8,
+				["title"] = "Gang zu c'Thun",
+				["desc"] = "",
+			},
+		},
+		[650] = {
+			[55883891] = {
+				["cont"] = false,
+				["title"] = "Cave 55.9 38.7",
+				["icon"] = 2,
+				["desc"] = "The orb is under the skull",
+			},
+		},
+		[232] = {
+			[68782349] = {
+				["icon"] = 8,
+				["title"] = "Magmadar",
+				["desc"] = "Pet: Kernfeuerwichtel",
+			},
+			[68255861] = {
+				["icon"] = 8,
+				["title"] = "Golemagg",
+				["desc"] = "Pet: Aschesteinkern",
+			},
+			[82588315] = {
+				["icon"] = 8,
+				["title"] = "Sulfuronherold",
+				["desc"] = "Pet: Herold der Flamme",
+			},
+		},
+		[355] = {
+			[43168389] = {
+				["title"] = "Urne",
+				["icon"] = 1,
+				["desc"] = "Hier Boss beschwören",
+			},
+			[41131412] = {
+				["icon"] = 3,
+				["title"] = "Zurück zu Der große böse Wolf",
+				["desc"] = "",
+			},
+			[64876930] = {
+				["title"] = "Weiter zu Der Kurator",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[46909175] = {
+				["icon"] = 8,
+				["title"] = "Schrecken der Nacht",
+				["desc"] = "Boss",
+			},
+		},
+		[359] = {
+			[71712599] = {
+				["title"] = "Arans Schemen",
+				["icon"] = 8,
+				["desc"] = "Boss",
+			},
+			[57815326] = {
+				["icon"] = 3,
+				["title"] = "Weiter zu Nethergroll",
+				["desc"] = "",
+			},
+			[32156256] = {
+				["title"] = "Zurück zu Der Kurator",
+				["icon"] = 3,
+				["desc"] = "hierlang",
+			},
+			[36422198] = {
+				["title"] = "Weiter zu Terestian Siechhuf",
+				["icon"] = 3,
+				["desc"] = "hierlang",
+			},
+		},
+		[363] = {
+			[41341428] = {
+				["title"] = "Prinz Malchezaar",
+				["icon"] = 3,
+				["desc"] = "hierlang",
+			},
+			[79096032] = {
+				["icon"] = 3,
+				["title"] = "Weiter zu Prinz Malchezaar",
+				["desc"] = "hierlang",
+			},
+			[36116192] = {
+				["icon"] = 8,
+				["title"] = "Schachevent",
+				["desc"] = "Boss",
+			},
+		},
+		[371] = {
+			[56797184] = {
+				["icon"] = 8,
+				["title"] = "Urobi der Wanderer",
+				["desc"] = "Rar Mob\n14% Epic Agi Stab 420 lvl 85 BoP",
+			},
+			[38954684] = {
+				["title"] = "Jadedurchdrungene Klinge",
+				["icon"] = 4,
+				["desc"] = "1h Stärke Schwert 404 lvl 85\nJadestatur mit Schwert in der Hand ansprechen 39.26 46.65",
+			},
+			[54004546] = {
+				["title"] = "Ferdinand",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nmöglicher Epic Drop",
+			},
+			[23363522] = {
+				["icon"] = 4,
+				["title"] = "Pandarischer Ritualstein",
+				["desc"] = "105g Graues Item + 153k XP",
+			},
+			[38506348] = {
+				["icon"] = 8,
+				["title"] = "Krax'ik",
+				["desc"] = "Rar Mob\n15% Epic 1h Agi Axt 420 lvl 85 BoP",
+			},
+			[31792824] = {
+				["icon"] = 4,
+				["title"] = "Pandarische Glücksmünze",
+				["desc"] = "95g Graues Item 190k XP\nIm Brunnen bei 31.9, 27.8\n",
+			},
+			[46108061] = {
+				["icon"] = 4,
+				["title"] = "Opfergabe des Erinnerns",
+				["desc"] = "Enthält 30g + 95k XP\nLiegt auf dem Schrein 46.3, 80.7\nKein Schatz!",
+			},
+			[53461963] = {
+				["cont"] = 1,
+				["title"] = "Zandalari Warbringer & Warscout",
+				["icon"] = 8,
+				["desc"] = "5.2 Rar Mob - Dropt Mount\nJade, Slate, Amber, or Golden Primordial Direhorn\nNPC-Scan id: 69842, 69769, 69841 & 69768",
+			},
+			[41461620] = {
+				["icon"] = 8,
+				["title"] = "Morgrinn Bersthauer",
+				["desc"] = "RarMob\n3 Spawnpunkte in der umgebung\n15% Epic 2h Stärke Streitkolben 420 lvl 85",
+			},
+			[51279905] = {
+				["icon"] = 4,
+				["title"] = "Schiffstruhe",
+				["desc"] = "Enthält 96g \nUnterwasser im Schiff 51.2, 100.0\nZählt als Schatz!",
+			},
+			[55223240] = {
+				["icon"] = 8,
+				["title"] = "Martar der Nicht-sehr-Kluge",
+				["desc"] = "Rar Mob\n32% Trinket: Beschwört 10min Hogger Pet",
+			},
+			[43807542] = {
+				["icon"] = 8,
+				["title"] = "Kor'nas Nachtgrauen",
+				["desc"] = "Rar Mob\n14% Epic Int/Hit Stab 420 lvl 85 BoP",
+			},
+			[47865410] = {
+				["icon"] = 16,
+				["title"] = "Hyuna von den Schreinen",
+				["desc"] = "Haustier-Trainer\nWildtier, Flug, Aquatisch",
+			},
+			[64287446] = {
+				["icon"] = 8,
+				["title"] = "Sarnak",
+				["desc"] = "Rar Mob\nIn einer Höhle\nEpic Agi Armbrust 420 lvl 85 BoE",
+			},
+			[28823618] = {
+				["cont"] = 1,
+				["title"] = "Flüsternder Pandarengeist",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nElementar, Drachkin, Kleintier",
+			},
+			[42291139] = {
+				["title"] = "Hammer der zehn Donner",
+				["icon"] = 4,
+				["desc"] = "= 2h Streitkolben Stärke 404 lvl 85\n2 Spawnpunke: 41.8 17.6 und 43.0 11.6",
+			},
+			[45641829] = {
+				["icon"] = 1,
+				["title"] = "Morgrinn Bersthauer",
+				["desc"] = "RarMob Spawn 2\n3 Spawnpunkte in der umgebung\n15% Epic 2h Stärke Streitkolben 420 lvl 85",
+			},
+			[45802831] = {
+				["title"] = "Uralte pandarische Spitzhacke",
+				["icon"] = 4,
+				["desc"] = "= 1h Axt Stärke 404 lvl 85\nEdelstein Spitzhacke für Bergbau\nIn der Höhle steckt in einem Stein\n",
+			},
+			[42333893] = {
+				["icon"] = 8,
+				["title"] = "Das Tier",
+				["desc"] = "RarMob Affe\n16% Epic 1h Stärke Streitkolben BoP",
+			},
+			[45547111] = {
+				["title"] = "Uralter stab der Jinyu",
+				["icon"] = 4,
+				["desc"] = "= Stab Intelligenz 404 lvl 85\nUnterwasser im Fluss Steckt im Boden\n3 Spawns: 47.1 67.4 / 46.2 71.2 / 44.9 64.6\n",
+			},
+			[62402728] = {
+				["icon"] = 4,
+				["title"] = "Edelsteinkästchen",
+				["desc"] = "6g + Edelsteine\nHöhleneingang:  62.6 26.7\nEdelsteinkästchen: 62.45 27.52",
+			},
+			[56094703] = {
+				["title"] = "Dailys",
+				["icon"] = 6,
+				["desc"] = "Orden Der Wolkenschlangen\nMounts!",
+			},
+			[26143201] = {
+				["icon"] = 4,
+				["title"] = "Uralter pandarischer Teekessel",
+				["desc"] = "100g Graues Item + 303 XP\nSteht auf dem Tisch 26.2, 32,3",
+			},
+			[41091777] = {
+				["title"] = "Hammer der zehn Donner",
+				["icon"] = 4,
+				["desc"] = "= 2h Streitkolben Stärke 404 lvl 85\n2 Spawnpunke: 41.8 17.6 und 43.0 11.6",
+			},
+			[55566579] = {
+				["icon"] = 6,
+				["title"] = "Dailys",
+				["desc"] = "Ab Lotus respektvoll:\nDie Himmlisch Erhabenen",
+			},
+			[39340732] = {
+				["icon"] = 4,
+				["title"] = "Wodins Mantisfetzer",
+				["desc"] = "1h Agi Dolch 404 lvl 85\nIm Brunnen 39.4 7.3",
+			},
+			[33975068] = {
+				["icon"] = 8,
+				["title"] = "Aethis",
+				["desc"] = "Rar Mob\n15% Epic 1h Wille Kolben 420 lvl 85 BoP",
+			},
+			[56115777] = {
+				["icon"] = 28,
+				["title"] = "Tempel der Jadeschlange",
+				["desc"] = "Instanzeingang (85-87 / 90 Heroisch)",
+			},
+		},
+		[379] = {
+			[35847350] = {
+				["icon"] = 16,
+				["title"] = "Mutiger Yon",
+				["desc"] = "Haustier-Trainer (in der Höle 35.8, 73.6)\nWildtier, Flug, Kleintier",
+			},
+			[64281332] = {
+				["title"] = "Nessos das Orakel",
+				["icon"] = 8,
+				["desc"] = "RarMob",
+			},
+			[45296270] = {
+				["title"] = "Scritch",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nDropt +1000 Ruf Trank",
+			},
+			[56847603] = {
+				["title"] = "Terrakottakopf",
+				["icon"] = 4,
+				["desc"] = "100g 28300xp\nZählt als Schatz\nKann überall in den Ruinen hier liegen",
+			},
+			[50848638] = {
+				["icon"] = 7,
+				["title"] = "Sha des Zorns (Worldboss)",
+				["desc"] = "",
+			},
+			[71973417] = {
+				["icon"] = 4,
+				["title"] = "Statue von Xuen",
+				["desc"] = "100g Graues Item 500k XP\nUnterwasser bei 72.0, 34.0\nZählt als Schatz",
+			},
+			[70996256] = {
+				["icon"] = 4,
+				["title"] = "Robuster Yaungolspeer",
+				["desc"] = "= Stärke Speer 419 lvl 86\nSteckt in einem der Speer Ständer",
+			},
+			[57667838] = {
+				["icon"] = 8,
+				["title"] = "Havak",
+				["desc"] = "RarMob",
+			},
+			[66727733] = {
+				["icon"] = 7,
+				["title"] = "Sha des Zorns (Worldboss)",
+				["desc"] = "Spawnt alle 15-30 min igentwo in Kun-Lai\nKill Check Macro:\n/run for k, v in pairs({ Galleon=32098, Sha=32099, Nalak=32518, Oon=32519, Champ=32641, Key=32626, Barrens=32862}) do print(format(\"%s: %s\", k, IsQuestFlaggedCompleted(v) and \"\\124cff00ff00Yes\" or \"\\124cffff0000No\"))",
+			},
+			[64649375] = {
+				["cont"] = 1,
+				["title"] = "Bebender Pandarengeist",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nKleintier, Elementar, Wildtier",
+			},
+			[38167863] = {
+				["title"] = "Kafapresse",
+				["icon"] = 4,
+				["desc"] = "= 4000 Tempo Trank 10 min cd\nIn der Höhle 35.2, 76.3\nEingefrorener Packer des Jutepfades\nNPC-Scan: 64227",
+			},
+			[54696714] = {
+				["title"] = "Sha des Zorns (Worldboss)",
+				["icon"] = 7,
+				["desc"] = "Spawnt alle 15-30 min igentwo in Kun-Lai\n\nKill Check Macro:\n/run for k, v in pairs({ Galleon = 32098, Sha = 32099, Nalak = 32518}) do print(format(\"%s: %s\", k, IsQuestFlaggedCompleted(v) and \"Yes killed\" or \"No\")) end",
+			},
+			[75176722] = {
+				["cont"] = 1,
+				["title"] = "Zandalari Warbringer & Warscout",
+				["icon"] = 8,
+				["desc"] = "5.2 Rar Mob - Dropt Mount\nJade, Slate, Amber, or Golden Primordial Direhorn\nNPC-Scan id: 69769 & 69768",
+			},
+			[50156176] = {
+				["icon"] = 4,
+				["title"] = "Schatztruhe der Ho-zen",
+				["desc"] = "Enthält 100g + 177k XP\nHöhleneingang: 50.4, 61.7\nAm ende der Höhle: 49.4, 59.4",
+			},
+			[40424180] = {
+				["title"] = "Ahone der Wanderer",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[53207111] = {
+				["icon"] = 4,
+				["title"] = "Kriegerspeer der Ho-zen",
+				["desc"] = "= Agi Stangenwaffe 434 lvl 86\nSteckt im Stein In der Höhle bei 24,6 65,3",
+			},
+			[64104554] = {
+				["icon"] = 4,
+				["title"] = "Uralte Mogutafel",
+				["desc"] = "95g Graues Item 280k XP\nHöhleneingang: 63.9, 49.8\nIn der Höhle 64.2,45.2",
+			},
+			[69815083] = {
+				["title"] = "Dailys",
+				["icon"] = 6,
+				["desc"] = "Ab Lotus respektvoll:\nDie Himmlisch Erhabenen",
+			},
+			[53658073] = {
+				["icon"] = 8,
+				["title"] = "Korda Torros",
+				["desc"] = "Rar Mob\n11% Schnelleres Sammeln Handschuhe\n(Bergbau, Kürschnern, Kräutern)",
+			},
+			[44675235] = {
+				["icon"] = 4,
+				["title"] = "Tafel von Ren Yun",
+				["desc"] = "Kochrezept: Bufft Nebelbildschirm+Augenbinde\nOben auf dem Berg neben der Statur 44.7 52.4\nZählt als Schatz!",
+			},
+			[52335081] = {
+				["icon"] = 4,
+				["title"] = "Rikktiks Schatulle",
+				["desc"] = "105g Graues Item +51g + 200k XP\n(Rikktiks Zeckenentferner)\nIn der Höhle neben der Affenstatur 52.6, 51.5\nZählt als Schatz",
+			},
+			[59613906] = {
+				["title"] = "Mogu'shangewölbe",
+				["icon"] = 28,
+				["desc"] = "Eingang 10er/25er Raid",
+			},
+			[59685259] = {
+				["icon"] = 4,
+				["title"] = "Gestohlene Berggeiststatue",
+				["desc"] = "Enthält 104g + 283k XP\nHöhleneingang: 59.5, 52.9 \nItem: 41.0, 42.7\nZählt als Schatz!\n2 Verschiedene Schätze sind hier in der Höhle",
+			},
+			[73517707] = {
+				["title"] = "Zai der Verstoßene",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[48858055] = {
+				["icon"] = 1,
+				["title"] = "Korda Torros",
+				["desc"] = "Rar Mob Spawn 2",
+			},
+			[37064779] = {
+				["icon"] = 28,
+				["title"] = "Shado-Pan-Kloster",
+				["desc"] = "Instanzeingang (87-89 / 90 Heroisch)",
+			},
+			[37638073] = {
+				["title"] = "Ski'thik",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[55344530] = {
+				["title"] = "Borginn Dunkelfaust",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[74517328] = {
+				["icon"] = 4,
+				["title"] = "Sprite's Cloth Chest",
+				["desc"] = "= Zufälliger 86 BoP Umhang\nKleine Kiste in der Höhle ganz hinten",
+			},
+			[41736999] = {
+				["title"] = "Daily",
+				["icon"] = 6,
+				["desc"] = "Gibt nur Gold",
+			},
+		},
+		[407] = {
+			[74233458] = {
+				["cont"] = false,
+				["title"] = "Erinys",
+				["icon"] = 8,
+				["desc"] = "Rare Mob\nDropt Toy: Ring der gebrochenen Versprechen",
+			},
+		},
+		[588] = {
+			[57722998] = {
+				["cont"] = false,
+				["title"] = "Event Ogerfeuer",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+		},
+		[525] = {
+			[51995050] = {
+				["title"] = "Gorok",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "[Mächtiger Grauhauer]\nMount",
+			},
+			[65926077] = {
+				["title"] = "Dagg Nr. 1",
+				["cont"] = false,
+				["icon"] = 11,
+				["desc"] = "Follower\n2 Käfige Öffnen\nNr. 2 bei 39.6, 28.0",
+			},
+			[58162006] = {
+				["cont"] = false,
+				["title"] = "Gorok",
+				["icon"] = 8,
+				["desc"] = "[Mächtiger Grauhauer]\nMount",
+			},
+			[64923204] = {
+				["cont"] = false,
+				["title"] = "Pfad nach oben",
+				["icon"] = 1,
+				["desc"] = "Rechts halten.\nGarrison Resources: Survivalist's Cache",
+			},
+			[68041890] = {
+				["title"] = "Abbild von Erzmagier Vargoth",
+				["cont"] = false,
+				["icon"] = 11,
+				["desc"] = "Follower\n4 Teile Sammeln; hier: Stiefel\nEingang zu Magnarok bei 66,31",
+			},
+			[66362602] = {
+				["cont"] = false,
+				["title"] = "Gibblett der Feigling / Gibblette the Cowardly",
+				["icon"] = 8,
+				["desc"] = "i620 Agi Craven Coward's Cloak\nLevel 101\n",
+			},
+			[69082379] = {
+				["cont"] = false,
+				["title"] = "Pfad nach oben",
+				["icon"] = 1,
+				["desc"] = "Garrison Resources: Goren Leftovers\nRare Mob: Gibblette the Cowardly\n",
+			},
+			[39682801] = {
+				["title"] = "Dagg Nr. 2",
+				["cont"] = false,
+				["icon"] = 11,
+				["desc"] = "Follower\n2 Käfige Öffnen\nNr. 1 bei 65.9, 60.8",
+			},
+			[25145101] = {
+				["cont"] = false,
+				["title"] = "dsd",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[63347910] = {
+				["title"] = "Gorok",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "[Mächtiger Grauhauer]\nMount",
+			},
+			[50461877] = {
+				["cont"] = false,
+				["title"] = "[Verbeulte Schädelkappe eines Ogers]",
+				["icon"] = 20,
+				["desc"] = "",
+			},
+			[64125319] = {
+				["title"] = "Gorok",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "[Mächtiger Grauhauer]\nMount",
+			},
+			[21896657] = {
+				["title"] = "Gorok",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "[Mächtiger Grauhauer]\nMount",
+			},
+		},
+		[332] = {
+			[59682613] = {
+				["icon"] = 8,
+				["title"] = "Morgrim",
+				["desc"] = "",
+			},
+		},
+		[352] = {
+			[66894243] = {
+				["icon"] = 3,
+				["title"] = "Weiter zu Tugendhafte Maid",
+				["desc"] = "",
+			},
+			[27026352] = {
+				["icon"] = 8,
+				["title"] = "Moroes",
+				["desc"] = "Boss",
+			},
+			[39738333] = {
+				["icon"] = 3,
+				["title"] = "Zurück zu Attumen",
+				["desc"] = "",
+			},
+		},
+		[356] = {
+			[53966128] = {
+				["title"] = "Weiter zu Der Kurator",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[69576593] = {
+				["title"] = "Zurück zu Schrecken der Nacht",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[360] = {
+			[66472423] = {
+				["icon"] = 3,
+				["title"] = "Arans Schemen",
+				["desc"] = "hierlang",
+			},
+			[52256994] = {
+				["title"] = "Terestian Siechhuf",
+				["icon"] = 8,
+				["desc"] = "Boss\nPet: Dämonischer Wichtel",
+			},
+		},
+		[364] = {
+			[80056898] = {
+				["title"] = "Zurück zum Schachevent",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[84657219] = {
+				["icon"] = 3,
+				["title"] = "Weiter zu Prinz Malchezaar",
+				["desc"] = "",
+			},
+		},
+		[504] = {
+			[52238939] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "51.5, 89.6",
+			},
+			[52927710] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "52.9, 77.2",
+			},
+			[48458931] = {
+				["title"] = "Durchgebranntes Konstrukt der Sonnenhäscher",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nNPC-Scan: 50358",
+			},
+			[48178253] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "47.9, 82.1",
+			},
+			[33636176] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "33.6, 60.4",
+			},
+			[35304723] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "35.3, 47,7",
+			},
+			[43506744] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "44.3, 67.5",
+			},
+			[28918093] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "28.9, 80.8",
+			},
+			[41007478] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "40.8, 74.7",
+			},
+			[56178452] = {
+				["title"] = "Durchgebranntes Konstrukt der Sonnenhäscher",
+				["icon"] = 1,
+				["desc"] = "Rar Mob spawn 2\nNPC-Scan: 50358",
+			},
+			[53938286] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "53.8, 82.8",
+			},
+			[37166808] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "37.0, 68.1",
+			},
+			[50292514] = {
+				["icon"] = 8,
+				["title"] = "Rückenbrecher Uru",
+				["desc"] = "Rar Mob (Phase 4)\nNPCScan: 70001",
+			},
+			[39818207] = {
+				["icon"] = 8,
+				["title"] = "Ra'sha",
+				["desc"] = "Rar Mob\nNPCScan: 70530\nDropt Selbstmord Dolch",
+			},
+			[54415354] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "54.1, 53.6",
+			},
+			[62463768] = {
+				["icon"] = 3,
+				["title"] = "x",
+				["desc"] = "",
+			},
+			[61835015] = {
+				["icon"] = 8,
+				["title"] = "Gottkoloss Ramuk",
+				["desc"] = "Rar Mob (Phase 3)\nNPCScan: 69999",
+			},
+			[61083876] = {
+				["icon"] = 8,
+				["title"] = "Molthor",
+				["desc"] = "Rar Mob (Phase 4)\nNPCScan: 70003 ",
+			},
+			[44248276] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "43.8, 82.8",
+			},
+			[50967126] = {
+				["title"] = "Progenitus",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nNPC-Scan: 69997",
+			},
+			[45315083] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "45.2, 50.7",
+			},
+			[33395770] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "33.4, 57.5",
+			},
+			[50314676] = {
+				["title"] = "Händer für Punkte",
+				["icon"] = 10,
+				["desc"] = "& Eingang zu 10er/25er Thron des Donners",
+			},
+			[47447239] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "47.4, 72.4",
+			},
+			[33077103] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "33.6, 71.7",
+			},
+			[35236168] = {
+				["title"] = "Mumta",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nNPCScan: 69664",
+			},
+			[53345394] = {
+				["title"] = "Goda",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nNPCScan: 69998",
+			},
+			[38877702] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "39.1, 76.8",
+			},
+			[54133507] = {
+				["icon"] = 8,
+				["title"] = "Lu-Ban",
+				["desc"] = "Rar Mob (Phase 4)\nNPCScan: 70002",
+			},
+			[43367820] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "43.5, 78.6",
+			},
+			[37228196] = {
+				["title"] = "Ku'lai Die Himmelsklaue",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nNPCScan: 69996",
+			},
+			[44145602] = {
+				["icon"] = 9,
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["desc"] = "",
+			},
+			[46545722] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "46.3, 57.5",
+			},
+			[44543008] = {
+				["title"] = "Al'tabim der Allsehende",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nNPCScan: 52689",
+			},
+			[51437494] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "51.5, 74.0",
+			},
+			[38765961] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "37.9, 61.0 / 38.7, 59.6 / 36.9, 60.7 / 36.1, 58.5",
+			},
+			[33607630] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "33.4, 76.3",
+			},
+			[35466400] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "35.6. 63.7",
+			},
+			[46806153] = {
+				["title"] = "Schatztruhe des Donnerkönigs",
+				["icon"] = 9,
+				["desc"] = "46.6, 61.6",
+			},
+			[67924522] = {
+				["icon"] = 3,
+				["title"] = "x",
+				["desc"] = "",
+			},
+			[40334057] = {
+				["icon"] = 3,
+				["title"] = "x",
+				["desc"] = "",
+			},
+			[58932629] = {
+				["icon"] = 3,
+				["title"] = "x",
+				["desc"] = "",
+			},
+		},
+		[376] = {
+			[70116312] = {
+				["title"] = "Galleon (Worldboss)",
+				["icon"] = 7,
+				["desc"] = "Respawnt alle 1-3 Stunden\nKill Check Macro:\n/run for k, v in pairs({ Galleon=32098, Sha=32099, Nalak=32518, Oon=32519, Champ=32641, Key=32626, Barrens=32862}) do print(format(\"%s: %s\", k, IsQuestFlaggedCompleted(v) and \"\\124cff00ff00Yes\" or \"\\124cffff0000No\"))",
+			},
+			[16347863] = {
+				["icon"] = 8,
+				["title"] = "Jonn-Dar",
+				["desc"] = "Rar Mob\n[Terrakottafragment]\nTrinket 400 lvl 85 Ruft Pet für 10 min.",
+			},
+			[34174639] = {
+				["title"] = "Chi-Chi",
+				["icon"] = 3,
+				["desc"] = "Blaue Feder [Pfannengericht Vier-Winde-Art]",
+			},
+			[56093396] = {
+				["title"] = "Sele'na",
+				["icon"] = 8,
+				["desc"] = "RarMob im Moor",
+			},
+			[54182874] = {
+				["title"] = "Sele'na",
+				["icon"] = 1,
+				["desc"] = "RarMob Spawn2",
+			},
+			[45894365] = {
+				["icon"] = 16,
+				["title"] = "Bäuerin Nishi",
+				["desc"] = "Haustier-Trainer\nWildtier, Elementar, Elementar",
+			},
+			[92233890] = {
+				["icon"] = 4,
+				["title"] = "Bootsbauanweisungen",
+				["desc"] = "10g Graues Item\nIn der Hütte\nKein Schatz!",
+			},
+			[44823439] = {
+				["icon"] = 3,
+				["title"] = "NPCs ",
+				["desc"] = "Haohan Lehmkrall = Rubinsplitter [G. Tigersteak]\nTina Lehmkrall = Rubinsplitter [Feuergeisterlachs]",
+			},
+			[41013008] = {
+				["icon"] = 3,
+				["title"] = "NPC",
+				["desc"] = "Fischi Rohrroder=Jadekatze [Zwillingsfischplatte]",
+			},
+			[14213521] = {
+				["title"] = "Stab des verborgenen Meisters",
+				["icon"] = 4,
+				["desc"] = "= Agi Stab 419 lvl 86\nKleiner Baumbus stock in der in einem Bambusstrauch steckt - Überall im Wald hier",
+			},
+			[35712586] = {
+				["title"] = "Sulik'shor",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nDropt +500 Werte Item",
+			},
+			[46133832] = {
+				["icon"] = 4,
+				["title"] = "Uralte pandarische Holzfälleraxt",
+				["desc"] = "= Graues Item 110g keine EP\nGeisterhafter Pandarenhandwerker ansprechen\nNPC-Scan: 64191",
+			},
+			[66545904] = {
+				["title"] = "Kriegsspäher von Salyis",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nFlussufer richtung Jadewald",
+			},
+			[77181147] = {
+				["icon"] = 9,
+				["title"] = "Schwarzmarkt",
+				["desc"] = "Auktionshaus",
+			},
+			[31045623] = {
+				["title"] = "NPCs",
+				["icon"] = 3,
+				["desc"] = "Ella = Jadekatze  [Garnelenklößchen]\nDer alte Hügelpranke = Feder  [Gesch. Schildkröte]",
+			},
+			[9594676] = {
+				["title"] = "Nal'lak der Reißer",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[16903710] = {
+				["title"] = "Bonobos",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nn der Umgebung",
+			},
+			[54135345] = {
+				["title"] = "NPCS",
+				["icon"] = 3,
+				["desc"] = "Sho = Apfel [Blütenfischfilet]\nJogu = Apfel  [Gebratene Karotten]\nBauer Fung = Sumpflilie [Wildgeflügelbraten]\nGina = Sumpflilie [Verwirbelte Nebelsuppe]\nChi-Chi = Feder [Pfannengericht Vier-Winde-Art]\nDer alte Hügelpranke = Feder [Gesch. Schildkröte]\nTina Lehmkrall  = Rubin [Feuergeisterlachs]\nHaohan Lehmkrall = Rubin [G. Tigersteak]",
+			},
+			[75434703] = {
+				["title"] = "Kriegsspäher von Salyis",
+				["icon"] = 1,
+				["desc"] = "Rar Mob Spawn 2",
+			},
+			[43223853] = {
+				["icon"] = 4,
+				["title"] = "Truhe mit geklauten Waren",
+				["desc"] = "Zufälliger lvl 86 BoP Hals\nGoldene Kiste in der Höhle\n",
+			},
+			[47282436] = {
+				["title"] = "Uralter pandarischer Angelglücksbringer",
+				["icon"] = 4,
+				["desc"] = "= zusatz Fische beim Angeln\nGeisterhafter Pandarenfischer Ansprechen\nNPC-Scan: 64004",
+			},
+			[35836823] = {
+				["icon"] = 28,
+				["title"] = "Brauerei Sturmbräu",
+				["desc"] = "Instanzeingang (85-87 / 90 Heroisch)",
+			},
+			[61545788] = {
+				["icon"] = 2,
+				["title"] = "Scheiderei CD",
+				["desc"] = "",
+			},
+			[55274826] = {
+				["icon"] = 6,
+				["title"] = "Dailys",
+				["desc"] = "Kochdailys\nZiegen Mounts!",
+			},
+			[88141803] = {
+				["title"] = "Nasra Spothide",
+				["icon"] = 8,
+				["desc"] = "RarMob\nPanda",
+			},
+			[48103468] = {
+				["icon"] = 3,
+				["title"] = "NPC",
+				["desc"] = "Bauer Fung = Sumpflilie [Wildgeflügelbraten]",
+			},
+			[23692912] = {
+				["title"] = "Schatztruhe der Shed-Ling",
+				["icon"] = 4,
+				["desc"] = "486k EP 98g\nIn der Höhle\nReichtum",
+			},
+			[10115382] = {
+				["title"] = "Nal'lak der Reißer",
+				["icon"] = 8,
+				["desc"] = "RarMob\nFlieg halbkreis am Tor",
+			},
+			[69790556] = {
+				["icon"] = 28,
+				["title"] = "Terrasse des endlosen Frühlings",
+				["desc"] = "Eingang 10er/25er Raid",
+			},
+			[35715748] = {
+				["title"] = "Schwarzhuf",
+				["icon"] = 8,
+				["desc"] = "Schlachthorn item (pullt alles in 40m range)\nRarMob",
+			},
+			[8026113] = {
+				["title"] = "Nal'lak der Reißer",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[19064253] = {
+				["icon"] = 4,
+				["title"] = "Stab des verborgenen Meisters",
+				["desc"] = "...auch hier",
+			},
+			[36306366] = {
+				["icon"] = 1,
+				["title"] = "Schwarzhuf",
+				["desc"] = "RarMob Spawn2",
+			},
+			[29032965] = {
+				["icon"] = 3,
+				["title"] = "NPC",
+				["desc"] = "Sho= Hübscher Apfel [Blütenfischfilet]",
+			},
+		},
+		[327] = {
+			[46570731] = {
+				["title"] = "Ahn'Quraj 40er",
+				["icon"] = 28,
+				["desc"] = "Eingang",
+			},
+			[59091404] = {
+				["icon"] = 28,
+				["title"] = "Ahn'Quraj 20er",
+				["desc"] = "Eingang",
+			},
+		},
+		[204] = {
+			[40917082] = {
+				["title"] = "Poseidus",
+				["icon"] = 8,
+				["desc"] = "",
+			},
+		},
+		[518] = {
+			[35141777] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[44461913] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[40891362] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[29234796] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[25032408] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[40682304] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[26205282] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[47181530] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[29714915] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[25032249] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[27705011] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[29192600] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[53931378] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[29455019] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[25143592] = {
+				["icon"] = 9,
+				["title"] = "Goldene Kiste",
+				["desc"] = "",
+			},
+			[27485961] = {
+				["icon"] = 19,
+				["title"] = "Start",
+				["desc"] = "",
+			},
+			[36052025] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[42382504] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[28124117] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[52121107] = {
+				["title"] = "Tenwu (Ausgang)",
+				["icon"] = 7,
+				["desc"] = "",
+			},
+			[54151825] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[29711554] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[31471538] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[26793199] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[27211993] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[29334626] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[25671817] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[51382783] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[29084005] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[28283191] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[26045554] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[54201969] = {
+				["title"] = "Goldene Kiste",
+				["icon"] = 9,
+				["desc"] = "",
+			},
+			[32801610] = {
+				["icon"] = 20,
+				["title"] = "Schalter",
+				["desc"] = "",
+			},
+			[26253622] = {
+				["icon"] = 20,
+				["title"] = "Schalter",
+				["desc"] = "",
+			},
+			[44191290] = {
+				["icon"] = 20,
+				["title"] = "Schalter",
+				["desc"] = "",
+			},
+			[53241905] = {
+				["title"] = "God-Hulk Gulkan (Boss)",
+				["icon"] = 8,
+				["desc"] = "",
+			},
+		},
+		[388] = {
+			[32786216] = {
+				["icon"] = 4,
+				["title"] = "Fragment des Schreckens",
+				["desc"] = "90g Graues Item 431k XP\nIn der Höhle 48.49, 89.46\nZählt als Schatz",
+			},
+			[57475831] = {
+				["icon"] = 4,
+				["title"] = "Erstarrtes Harz von Kri'vess",
+				["desc"] = "110g Graues Item 420k XP\nSpawns: 52,60 53,58 53,61 56,55 57,41\nZählt als Schatz",
+			},
+			[61753463] = {
+				["title"] = "Kah'tir",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[32586087] = {
+				["icon"] = 8,
+				["title"] = "Yul Wildpfote",
+				["desc"] = "Böser Panda Rar",
+			},
+			[66724781] = {
+				["title"] = "Lon der Bulle",
+				["icon"] = 8,
+				["desc"] = "Rar Mob",
+			},
+			[65878654] = {
+				["title"] = "In Bern eingeschlossene Motte",
+				["icon"] = 4,
+				["desc"] = "105g Graues Item 451k XP\nZählt als Schatz!",
+			},
+			[46697420] = {
+				["title"] = "Lith'ik der Pirscher",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nHeuschrecke",
+			},
+			[36215219] = {
+				["icon"] = 16,
+				["title"] = "Sucher Zusshi",
+				["desc"] = "Kleintier, Aquatik, Elementar",
+			},
+			[67564790] = {
+				["icon"] = 4,
+				["title"] = "Feuerträger der Yaungol",
+				["desc"] = "= 1h Stärke Streitkolben 450 lvl 86\nKleine Fackel die in einer Schale rumliegt",
+			},
+			[58708543] = {
+				["icon"] = 8,
+				["title"] = "Siltriss der Schärfer",
+				["desc"] = "RarMob",
+			},
+			[62773393] = {
+				["icon"] = 4,
+				["title"] = "Zurückgelassene Warenkiste",
+				["desc"] = "Kiste enhält ca. 103g\nIm Zelt bei 62.82 34.05\nZählt als Schatz",
+			},
+			[69029007] = {
+				["icon"] = 1,
+				["title"] = "Eshelon",
+				["desc"] = "RarMob Spawn 2",
+			},
+			[36958540] = {
+				["cont"] = 1,
+				["title"] = "Zandalari Warbringer & Warscout",
+				["icon"] = 8,
+				["desc"] = "5.2 Rar Mob - Dropt Mount\nJade, Slate, Amber, or Golden Primordial Direhorn\nNPC-Scan id: 69769 & 69768",
+			},
+			[56914229] = {
+				["cont"] = 1,
+				["title"] = "Brennender Pandarengeist",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nElementar, Drachkin, Flug",
+			},
+			[28772436] = {
+				["title"] = "Portal",
+				["icon"] = 28,
+				["desc"] = "Prequest um sich zur Insel zu Porten\n(Wichtig für Dailys Shado-Pan)",
+			},
+			[67134449] = {
+				["icon"] = 4,
+				["title"] = "Feuerträger der Yaungol",
+				["desc"] = "= 1h Stärke Streitkolben 450 lvl 86\nKleine Fackel die in einer Schale rumliegt",
+			},
+			[63238857] = {
+				["icon"] = 8,
+				["title"] = "Eshelon",
+				["desc"] = "RarMob",
+			},
+			[53276409] = {
+				["icon"] = 8,
+				["title"] = "Norlaxx",
+				["desc"] = "Rar Mob",
+			},
+			[46008889] = {
+				["title"] = "Lith'ik der Pirscher",
+				["icon"] = 1,
+				["desc"] = "Spawn 2",
+			},
+			[50527291] = {
+				["title"] = "Portal zur Insel des Donners",
+				["icon"] = 28,
+				["desc"] = "",
+			},
+			[35258276] = {
+				["icon"] = 28,
+				["title"] = "Belagerung des Niuzaotempels",
+				["desc"] = "Instanzeingang (90 Heroisch)",
+			},
+			[51707157] = {
+				["title"] = "Dailys Shado-Pan",
+				["icon"] = 6,
+				["desc"] = "Ab Lotus Respektvoll\n\nHänder für Punkte",
+			},
+			[52675574] = {
+				["icon"] = 4,
+				["title"] = "Erstarrtes Harz von Kri'vess",
+				["desc"] = "110g Graues Item 420k XP\nSpawns: 52,60 53,58 53,61 56,55 57,41\nZählt als Schatz",
+			},
+			[66727393] = {
+				["title"] = "Der Jauler",
+				["icon"] = 8,
+				["desc"] = "Rar Mob\nAffe",
+			},
+		},
+		[117] = {
+			[28393345] = {
+				["title"] = "Beegli Lunte",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nFlug, Wasser, Flug",
+			},
+			[68386761] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[72444307] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[45604308] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+		},
+		[542] = {
+			[31464328] = {
+				["cont"] = false,
+				["title"] = "[Hydraling]",
+				["icon"] = 3,
+				["desc"] = "Pet\nHöhle Eingang bei 31.50,43.33",
+			},
+			[58324565] = {
+				["cont"] = false,
+				["title"] = "Bodyguard Farmspot",
+				["icon"] = 11,
+				["desc"] = "für die Follower",
+			},
+			[72401795] = {
+				["title"] = "Daily Rare Toy",
+				["cont"] = false,
+				["icon"] = 6,
+				["desc"] = "Black Whirlwind",
+			},
+			[50845771] = {
+				["cont"] = false,
+				["title"] = "Hier Felle Farmen",
+				["icon"] = 23,
+				["desc"] = "",
+			},
+			[55016850] = {
+				["cont"] = false,
+				["title"] = "Leorajh",
+				["icon"] = 11,
+				["desc"] = "Follower\nAuf dem Berg bei 54, 63 in der Höhle, hier hochgehen!",
+			},
+		},
+		[550] = {
+			[67795628] = {
+				["cont"] = false,
+				["title"] = "Abu'gar",
+				["icon"] = 19,
+				["desc"] = "Sammel Quest für Begleiter hier abgeben:\nAbu'gars Lieblingsköder\nAbu'gars Lebenskraft\nAbu'gars beste Angelspule",
+			},
+			[54893500] = {
+				["cont"] = false,
+				["title"] = "Nakk der Donnerer / Nakk the Thunderer",
+				["icon"] = 8,
+				["desc"] = "Bluthufbulle\nMount",
+			},
+			[42836892] = {
+				["title"] = "6",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[51084115] = {
+				["cont"] = false,
+				["title"] = "Ruf Items Werterhaltungsgesellschaft des Dampfdruckkartells",
+				["icon"] = 10,
+				["desc"] = "Steamwheedle Preservation Society\nRufitems: Hochfelsrelikt",
+			},
+			[53731518] = {
+				["cont"] = false,
+				["title"] = "Schwarzmarkt",
+				["icon"] = 9,
+				["desc"] = "Auktionshaus",
+			},
+			[51443493] = {
+				["cont"] = false,
+				["title"] = "Nakk der Donnerer / Nakk the Thunderer",
+				["icon"] = 8,
+				["desc"] = "Bluthufbulle\nMount",
+			},
+			[64351983] = {
+				["cont"] = false,
+				["title"] = "Nakk der Donnerer / Nakk the Thunderer",
+				["icon"] = 8,
+				["desc"] = "Bluthufbulle\nMount",
+			},
+			[53477737] = {
+				["title"] = "5",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[41593734] = {
+				["title"] = "Fesseln",
+				["cont"] = false,
+				["icon"] = 16,
+				["desc"] = "",
+			},
+			[61901818] = {
+				["cont"] = false,
+				["title"] = "Nakk der Donnerer / Nakk the Thunderer",
+				["icon"] = 8,
+				["desc"] = "Bluthufbulle\nMount",
+			},
+			[78617122] = {
+				["title"] = "3",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[46491600] = {
+				["cont"] = false,
+				["title"] = "Abbild von Erzmagier Vargoth",
+				["icon"] = 11,
+				["desc"] = "Follower\n4 Teile Sammeln; hier: Stab\nNear the Broken Precipice in the Cerulean Lagoon",
+			},
+			[91682385] = {
+				["title"] = "1",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[59282029] = {
+				["title"] = "[Hochfelsrelikt]",
+				["cont"] = false,
+				["icon"] = 10,
+				["desc"] = "",
+			},
+			[69713507] = {
+				["title"] = "2",
+				["cont"] = false,
+				["icon"] = 3,
+				["desc"] = "",
+			},
+		},
+		[205] = {
+			[58128221] = {
+				["icon"] = 8,
+				["title"] = "Poseidus",
+				["desc"] = "",
+			},
+			[46255045] = {
+				["icon"] = 8,
+				["title"] = "Poseidus",
+				["desc"] = "",
+			},
+			[66144307] = {
+				["icon"] = 8,
+				["title"] = "Poseidus",
+				["desc"] = "",
+			},
+			[39306810] = {
+				["icon"] = 8,
+				["title"] = "Poseidus",
+				["desc"] = "",
+			},
+		},
+		[207] = {
+			[49675735] = {
+				["title"] = "Bordin Ruhigfaust",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nElementar, Kleintier, Elementar",
+			},
+		},
+		[289] = {
+			[50186188] = {
+				["title"] = "Brutwächter Dreschbringer",
+				["icon"] = 8,
+				["desc"] = "Pet: Welpenwache der Todeskrallen",
+			},
+		},
+		[116] = {
+			[61121821] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[25935591] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[79185238] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+		},
+		[424] = {
+			[52343981] = {
+				["title"] = "Sha des Zorns (Worldboss)",
+				["icon"] = 7,
+				["desc"] = "Respawnt alle 15-30 min",
+			},
+			[56916985] = {
+				["title"] = "Galleon (Worldboss)",
+				["icon"] = 7,
+				["desc"] = "Respawnt alle 1-3 Stunden",
+			},
+		},
+		[539] = {
+			[24553305] = {
+				["cont"] = false,
+				["title"] = "Gorum",
+				["icon"] = 1,
+				["desc"] = "Rar Mob in der Höhle",
+			},
+			[33063360] = {
+				["title"] = "Amaukwa",
+				["cont"] = false,
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[38222219] = {
+				["title"] = "Bubbling Cauldron",
+				["cont"] = false,
+				["icon"] = 20,
+				["desc"] = "in der Höhle",
+			},
+			[46312807] = {
+				["title"] = "Shadowmoon Exile Treasure",
+				["cont"] = false,
+				["icon"] = 20,
+				["desc"] = "In der Höhle 46,27",
+			},
+			[31894263] = {
+				["cont"] = false,
+				["title"] = "Schattenmondgrabstätte",
+				["icon"] = 28,
+				["desc"] = "Instanzeingang (90-93 / 100 Heroisch)",
+			},
+		},
+		[114] = {
+			[48170795] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[32565960] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[81214821] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+		},
+		[634] = {
+			[32827553] = {
+				["title"] = "Kangaxx",
+				["cont"] = false,
+				["icon"] = 2,
+				["desc"] = "Step 4: 32,75 Stormheim (mob can oneshot)",
+			},
+		},
+		[622] = {
+			[54314929] = {
+				["cont"] = false,
+				["title"] = "PvP Gear",
+				["icon"] = 24,
+				["desc"] = "",
+			},
+			[51856138] = {
+				["cont"] = false,
+				["title"] = "Fate-Twister Seress = Schicksalsflechter Seress",
+				["icon"] = 9,
+				["desc"] = "Max 3x Siegel des geschmiedeten Schicksals\nApexis Crystals: 1000 / 2000 / 4000\nGarrison Resources: 300 / 600 / 1200\nGold: 500 / 1000 / 2000\nHonor: 500 / 1000 / 2000",
+			},
+		},
+		[630] = {
+			[36323685] = {
+				["title"] = "Cave in Azsuna",
+				["cont"] = false,
+				["icon"] = 2,
+				["desc"] = "Part 3: 37, 35 Cave in Azsuna with foxes outside (jump in bushes under the tree)",
+			},
+			[59431319] = {
+				["cont"] = false,
+				["title"] = "Crystal cave in Azsuna",
+				["icon"] = 2,
+				["desc"] = "Step 8: 59, 13 Crystal cave in Azsuna",
+			},
+			[26924908] = {
+				["title"] = "Portal to Inquisitor Tivos",
+				["cont"] = false,
+				["icon"] = 28,
+				["desc"] = "Coordinates: 26.8 48.9",
+			},
+			[54022611] = {
+				["cont"] = false,
+				["title"] = "54.02 26.21",
+				["icon"] = 2,
+				["desc"] = "Cave Entrance (The orb is next to the pillar under a fern at 54.3 / 24.4)",
+			},
+		},
+		[353] = {
+			[69134323] = {
+				["title"] = "Zurück zu Mores",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[83694973] = {
+				["title"] = "Tugendhafte Maid",
+				["icon"] = 8,
+				["desc"] = "Boss",
+			},
+			[19944179] = {
+				["title"] = "Weiter zu Schrecken der Nacht",
+				["icon"] = 3,
+				["desc"] = "",
+			},
+			[17823449] = {
+				["title"] = "Der große böse Wolf",
+				["icon"] = 8,
+				["desc"] = "Boss\nPet: Kleiner böser Wolf",
+			},
+			[27322286] = {
+				["icon"] = 3,
+				["title"] = "Weiter zu Der große böse Wolf",
+				["desc"] = "",
+			},
+		},
+		[646] = {
+			[58065399] = {
+				["cont"] = false,
+				["title"] = "Cave",
+				["icon"] = 2,
+				["desc"] = "Step 2: There is a cave with the green torch outside, go in and try to find a pile of dirt at the end of cave, pickup loot (relic) and go back (if enterence is closed by rocks, try to relog)",
+			},
+			[37027096] = {
+				["title"] = "Drak'thul 37.19 71.65 = Fathom Dweller Mount",
+				["cont"] = false,
+				["icon"] = 8,
+				["desc"] = "Step 1: Talk untill he sends you away\n/run local t,s={43730,43731,43732,43733,43734,43735,43736,43737,43760,43761}for i=1,#t do if not IsQuestFlaggedCompleted(t[i])then s=i break end end print(s and\"You are on Orb #\"..s or\"You are attuned!\")",
+			},
+			[32527303] = {
+				["title"] = "32, 72 Broken Shore",
+				["cont"] = false,
+				["icon"] = 2,
+				["desc"] = "Step 7: in cave deep under the water",
+			},
+		},
+		[115] = {
+			[59207727] = {
+				["icon"] = 16,
+				["title"] = "Okrut Drachenwüste",
+				["desc"] = "Haustier-Trainer\nUndead, Drachkin, Undead",
+			},
+			[82186569] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[26795334] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[65283489] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+		},
+		[535] = {
+			[41426005] = {
+				["title"] = "Soulbinder's Reliquary",
+				["cont"] = false,
+				["icon"] = 20,
+				["desc"] = "in der Höhle Eingang 41.5,60",
+			},
+			[58931157] = {
+				["cont"] = false,
+				["title"] = " [Deceptias schwelende Stiefel]",
+				["icon"] = 20,
+				["desc"] = "Spielzeug",
+			},
+			[75824484] = {
+				["title"] = "Winzige Naarustatue",
+				["cont"] = false,
+				["icon"] = 9,
+				["desc"] = "77g",
+			},
+			[68007017] = {
+				["cont"] = false,
+				["title"] = "Wo wir schon mal hier sind",
+				["icon"] = 11,
+				["desc"] = "Follower:\n\nQuestgeber Horde: Magister Krelas\nArtillery Tower = Morketh Bladehowl\nArcane Sanctum = Magistra Serena\n\nQuestgeber Alliance: Magister Serena\nArtillery Tower  = Miall\nArcane Sanctum = Magistra Serena\n\nQuestreihe:\nWo wir schon mal hier sind\nDer letzte Schritt\nEin Grund zum Feiern",
+			},
+			[77004996] = {
+				["title"] = "Verkohltes Schwert",
+				["cont"] = false,
+				["icon"] = 20,
+				["desc"] = "[Flammenwalzes Großschwert]",
+			},
+			[65060902] = {
+				["cont"] = false,
+				["title"] = "Jug of Aged Ironwine",
+				["icon"] = 1,
+				["desc"] = "in der Höhle",
+			},
+			[45433707] = {
+				["cont"] = false,
+				["title"] = "Abbild von Erzmagier Vargoth",
+				["icon"] = 11,
+				["desc"] = "Follower\n4 Teile Sammeln; hier: Hut\non the ground",
+			},
+			[73912925] = {
+				["cont"] = false,
+				["title"] = "[Terokrallenjungtier]",
+				["icon"] = 3,
+				["desc"] = "Pet\nEier Nest",
+			},
+			[58285267] = {
+				["title"] = "Aeda Morgenglanz",
+				["cont"] = false,
+				["icon"] = 11,
+				["desc"] = "Follower\nQuest: Torwächter von Auchindoun",
+			},
+			[53192570] = {
+				["cont"] = false,
+				["title"] = "Ketya's Stash",
+				["icon"] = 1,
+				["desc"] = "Höhleneingang",
+			},
+		},
+		[543] = {
+			[52815983] = {
+				["title"] = "Bruto",
+				["cont"] = false,
+				["icon"] = 11,
+				["desc"] = "Follower\nQuestreihe:\nEine wiederentdeckte Legende\nGladiatoren auftreiben\nDie Axt von Kor'gall\nDie Übungsarena",
+			},
+			[51084359] = {
+				["cont"] = false,
+				["title"] = "Rammfaust / Poundfist",
+				["icon"] = 7,
+				["desc"] = "51.41, 43.20\nSonnenhautgronnling Mount für alle",
+			},
+			[73692452] = {
+				["cont"] = false,
+				["title"] = "Portal zur Zeitlosen Insel",
+				["icon"] = 28,
+				["desc"] = "",
+			},
+			[41999015] = {
+				["title"] = "Blook (ab lvl 90)",
+				["cont"] = false,
+				["icon"] = 11,
+				["desc"] = "Ihn killen dann wird er zum\nFollower",
+			},
+			[46768672] = {
+				["cont"] = false,
+				["title"] = "Tarlna der Zeitlose",
+				["icon"] = 8,
+				["desc"] = "Worldboss\n650er Gear",
+			},
+			[44938679] = {
+				["title"] = "Tormmok (ab lvl 92)",
+				["cont"] = false,
+				["icon"] = 11,
+				["desc"] = "Holzfaust/Woodfist\nAdds hier killen bis der Mob Grün wird\nFollower",
+			},
+			[42315596] = {
+				["cont"] = false,
+				["title"] = "Rammfaust / Poundfist",
+				["icon"] = 7,
+				["desc"] = "43.2, 55.5\nSonnenhautgronnling Mount für alle",
+			},
+			[47605573] = {
+				["cont"] = false,
+				["title"] = "Rammfaust / Poundfist",
+				["icon"] = 7,
+				["desc"] = "47, 54\nNext to Rexxar's Flight Path\nSonnenhautgronnling Mount für alle",
+			},
+			[56054864] = {
+				["cont"] = false,
+				["title"] = "x",
+				["icon"] = 1,
+				["desc"] = "",
+			},
+			[44554769] = {
+				["cont"] = false,
+				["title"] = "Rammfaust / Poundfist",
+				["icon"] = 7,
+				["desc"] = "Genaue coords unbekannt!\nSonnenhautgronnling Mount für alle",
+			},
+			[39043909] = {
+				["cont"] = false,
+				["title"] = "Abbild von Erzmagier Vargoth",
+				["icon"] = 11,
+				["desc"] = "Follower\n4 Teile Sammeln; hier: Ring\nIn one of the \"craters\" on the mountain",
+			},
+			[42222498] = {
+				["cont"] = false,
+				["title"] = "Rammfaust / Poundfist",
+				["icon"] = 7,
+				["desc"] = "42, 25\nSonnenhautgronnling Mount für alle",
+			},
+		},
+		[118] = {
+			[73736489] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[48398669] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[44543377] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[77361997] = {
+				["icon"] = 16,
+				["title"] = "Major Payne",
+				["desc"] = "Haustier-Trainer\nWildtier, Elementar, Mechanisch",
+			},
+		},
+		[119] = {
+			[44216890] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[36951933] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+			[58332222] = {
+				["title"] = "Val'kyr Pet",
+				["icon"] = 4,
+				["desc"] = "",
+			},
+		},
+		[120] = {
+			[41767868] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[65604227] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+			[28935093] = {
+				["icon"] = 4,
+				["title"] = "Val'kyr Pet",
+				["desc"] = "",
+			},
+		},
+		[241] = {
+			[56525639] = {
+				["title"] = "Goz Unheilsfuror",
+				["icon"] = 16,
+				["desc"] = "Haustier-Trainer\nWildtier, Magie, Elementar",
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Kiuas - Outland"] = "LeilaUI",
+		["Risêagainst - Anetheron"] = "LeilaUI",
+		["Kiuaswl - Stormscale"] = "LeilaUI",
+	},
+	["profiles"] = {
+		["LeilaUI-m"] = {
+			["icon_alpha"] = 0.75,
+		},
+		["LeilaUI"] = {
+			["icon_alpha"] = 0.75,
+		},
+		["Default"] = {
+			["icon_scale"] = 0.8,
+			["icon_alpha"] = 0.8,
+		},
+		["LeilaUI-d"] = {
+			["icon_alpha"] = 0.75,
+		},
+	},
+}
