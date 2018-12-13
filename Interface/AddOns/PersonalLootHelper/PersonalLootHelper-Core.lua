@@ -33,6 +33,9 @@ Known Bugs:
 		
 CHANGELOG:
 
+20181211 - 2.18
+	Added patch 8.1 trinkets
+	
 20180903 - 2.17
 	Fixed issue that caused PLH to not work for players whose realms have spaces in their names
 	
