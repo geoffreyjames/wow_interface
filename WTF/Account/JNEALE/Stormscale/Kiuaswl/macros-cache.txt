@@ -1,5 +1,0 @@
-VER 3 0100000000000001 "trinket and dps" "INV_MISC_QUESTIONMARK"
-/use 13
-/use 14
-/cast Dark Soul: Misery
-END

@@ -1,2 +1,0 @@
-
-nibUIScale_Char = nil
